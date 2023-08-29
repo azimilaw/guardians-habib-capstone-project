@@ -1,4 +1,4 @@
-@regrassion
+@Smoke
 Feature: Login
 
   Background: 
